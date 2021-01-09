@@ -54,3 +54,7 @@ footer p {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+.date-created{
+  text-align: center;
+  color:#bbb;
+}
